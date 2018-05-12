@@ -1,0 +1,32 @@
+_repo: La-Marfisa-bizzarra_19524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gozzi, Carlo
+    birthdate: 1720
+    deathdate: 1806
+    gutenberg_agent_id: '8719'
+    url: http://www.gutenberg.org/2009/agents/8719
+    wikipedia: http://en.wikipedia.org/wiki/Carlo_Gozzi
+  editor:
+    agent_name: Ortiz, Cornelia
+    gutenberg_agent_id: '8720'
+    url: http://www.gutenberg.org/2009/agents/8720
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19524'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama'
+- !lcc 'PQ'
+title: La Marfisa bizzarra
+url: http://www.gutenberg.org/ebooks/19524
